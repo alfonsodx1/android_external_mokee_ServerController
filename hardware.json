@@ -1535,4 +1535,12 @@
     "display": "6.3 inch, 2340x1080 pixel(410ppi)",
     "cpuarch": "arm64"
   }
+  "hotdog": {
+    "cpu": "Qualcomm® Snapdragon™ 855+",
+    "ram": "8GB/12GB of LPDDR4X",
+    "rom": "256GB",
+    "battery": "4085 mAh",
+    "display": "6.67 inch, 1440x3120 pixel(516ppi)",
+    "cpuarch": "arm64"
+  },
 }
